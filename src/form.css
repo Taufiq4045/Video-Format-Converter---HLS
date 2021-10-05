@@ -1,0 +1,26 @@
+form{
+    background-image: linear-gradient(to right top, #9fa42e, #bd8427, #ca623e, #c2465d, #a33d7b);;
+    color: black;
+    border: 5px solid black;
+    z-index: 5px;
+    padding: 5rem;
+    border-radius: 15px;
+
+}
+.convert{
+    position: relative;
+    left: 30%;
+}
+h3{
+    color: black;
+
+}
+.error{
+    color: rgb(90, 3, 3);
+    font-weight: 600;
+}
+.alert
+{
+    color: rgb(3, 1, 29);
+    font-weight: 600;
+}
